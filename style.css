@@ -36,7 +36,7 @@ main{
 .mensaje{
     height: 630px;
     background: white;
-    background-image: url(imagenes/muneco.png);
+    background-image: url('imagenes/muneco.png');
     background-repeat: no-repeat;
     background-position: center;
     border: none;
